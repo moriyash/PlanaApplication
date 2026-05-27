@@ -14,11 +14,11 @@ The product is designed around a simple idea: each group gets the right workspac
 
 ## Core capabilities
 
-- **Groups** — Create, search, archive, invite by email, and manage members.
-- **Category workspaces** — Purpose-built surfaces for household, shopping, income, expenses, goals, time, projects, travel, family, personal planning, and more.
-- **Activity** — A shared feed for group updates and relevant notifications.
-- **Profile and settings** — Profile photo, appearance, language, notifications, privacy, and security.
-- **Group identity** — Custom color, icon, and photo, plus per-member notification and archive preferences.
+- **Groups** - Create, search, archive, invite by email, and manage members.
+- **Category workspaces** - Purpose-built surfaces for household, shopping, income, expenses, goals, time, projects, travel, family, personal planning, and more.
+- **Activity** - A shared feed for group updates and relevant notifications.
+- **Profile and settings** - Profile photo, appearance, language, notifications, privacy, and security.
+- **Group identity** - Custom color, icon, and photo, plus per-member notification and archive preferences.
 
 ## Product highlights
 
@@ -56,16 +56,6 @@ Add product images to `docs/images/` and reference them here as the public showc
 docs/images/
 ```
 
-## Status
 
-Plana is in active development. Features, copy, and visual design may change before production release.
 
-## License and use
 
-© Moriya Sh. All rights reserved.
-
-No part of this repository may be copied, reused, distributed, or exploited commercially without prior written permission.
-
-## Links
-
-- Public showcase: [moriyash/PlanaApplication](https://github.com/moriyash/PlanaApplication)
